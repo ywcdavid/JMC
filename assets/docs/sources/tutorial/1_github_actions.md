@@ -30,7 +30,7 @@
 
 访问下面这个网址：
 
-`https://github.com/你的用户名/JMComic-Crawler-Python/actions/workflows/download_dispatch.yml`
+`https://github.com/你的用户名/JMC/actions/workflows/download_dispatch.yml`
 
 按下图步骤进行操作：
 
@@ -40,7 +40,7 @@
 
 访问下面这个网址：
 
-`https://github.com/你的用户名/JMComic-Crawler-Python/edit/master/usage/workflow_download.py`
+`https://github.com/你的用户名/JMC/edit/master/usage/workflow_download.py`
 
 其实就是编辑 `usage/workflow_download.py`文件，任意分支皆可。
 
